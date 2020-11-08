@@ -1,6 +1,8 @@
 
 
 # Math Module:
+# 1: prime number -- https://labuladong.gitbook.io/algo/gao-pin-mian-shi-xi-lie/4.1-shu-xue-yun-suan-ji-qiao/da-yin-su-shu
+# 2. other cases -- pending
 
 # Find the Prime Number
 # First: Find all the possible prime from [2, sqrt(n)]
