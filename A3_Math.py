@@ -4,6 +4,14 @@
 # 1: prime number -- https://labuladong.gitbook.io/algo/gao-pin-mian-shi-xi-lie/4.1-shu-xue-yun-suan-ji-qiao/da-yin-su-shu
 # 2. other cases -- pending
 
+'''
+Some ideas about prime number
+1. find all the possible squares less than [2, sqrt(n)]
+2. loop and record all the numbers as a list[i]
+3. find those not labelled as non-prime -> prime
+
+'''
+
 # Find the Prime Number
 # First: Find all the possible prime from [2, sqrt(n)]
 n = 20

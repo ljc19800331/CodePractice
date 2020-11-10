@@ -5,6 +5,9 @@ Minimum distances in two strings implementation in Python
 reference: https://blog.csdn.net/dongrixinyu/article/details/78771600
 '''
 
+# Solution 1: brute force with two pointers
+# use dictionary for hash
+
 # This shows the solution
 
 strs = ['*','3','*', '5', '10', '9', '7', '1', '*']

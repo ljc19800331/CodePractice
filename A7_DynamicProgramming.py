@@ -9,6 +9,8 @@
 # res_list = [1, 5, 5] or [5, 5, 1]
 # Goal: Find the minimum cases and all the possible combinations
 
+# again for the coin change problem
+
 def dp(n):
 
     # input: The current sum of number

@@ -8,6 +8,9 @@ reference: https://blog.csdn.net/dongrixinyu/article/details/78771600
 2. find the list for number
 3. form a new list for all the numbers
 
+1. if not allowed to copy list -- use double pointers
+2. if allowed -- use two lists of strings for this problems.
+
 '''
 
 strs = ['*', '1', '2', '*', '4', '5', '*']
