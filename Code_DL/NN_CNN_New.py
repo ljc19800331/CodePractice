@@ -34,7 +34,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 import numpy as np
-from AI_Hw5 import NN_CNN
+from Code_DL import NN_CNN
 from torchsummary import summary
 
 class CNN(nn.Module):

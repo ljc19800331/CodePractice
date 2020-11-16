@@ -5,7 +5,7 @@ Test the Two layer network
 '''
 
 import torch.nn.functional
-from AI_Hw5 import NN_TwoLayer
+from Code_DL import NN_TwoLayer
 
 # N is batch size; D_in is input dimension;
 # H is hidden dimension; D_out is output dimension.
